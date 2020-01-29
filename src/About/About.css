@@ -1,0 +1,15 @@
+.about{
+    width: 560px;
+    height: 442px;
+    line-height: 25px;
+    margin: 0 auto;
+}
+.lessons li
+{
+    margin-left: 30px;
+    list-style-type: disc;
+    text-align: left;
+}
+.lessons p{
+    margin-top: 20px;
+}

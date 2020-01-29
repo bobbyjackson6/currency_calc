@@ -1,0 +1,9 @@
+.socialMedia{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+}
+.socialMedia img{
+    width: 50px;
+}

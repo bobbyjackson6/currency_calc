@@ -1,0 +1,16 @@
+header{
+  background-color: rgb(31, 134, 230);
+background-image: radial-gradient(ellipse farthest-corner at right bottom, #ADC0CE 0%, rgb(31, 134, 230) 50%, #E4E4E4 100%);
+}
+.top-bar{
+  padding: 0;
+  font-size: 12px;
+  min-height: 40px;
+}
+.main-header{
+  padding: 20px 0 25px;
+}
+.site-title{
+  color: #fff;
+}
+

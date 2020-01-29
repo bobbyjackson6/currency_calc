@@ -1,0 +1,128 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.6rem;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a:hover,
+a:focus,
+a:active {
+    color:#487922;
+    text-decoration: none;
+}
+
+
+header{
+    background: #487922;
+}
+.top-bar{
+    padding: 0;
+    font-size: 12px;
+    border-bottom: .4px solid #3b621c;
+    min-height: 40px;
+}
+.main-header{
+    padding: 20px 0 25px;
+}
+.site-title{
+    color: #fff;
+}
+
+.header-nav{
+    background: #3b621c;
+}
+
+.header-nav div nav ul{
+    display: flex;
+    padding: 0;
+    
+}
+
+.header-nav div nav ul li{
+    list-style-type: none;
+    margin-right: 50px;
+    
+}
+.header-nav div nav ul li a{
+    color:#fff;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.flex-container > .block{
+    width: 28%;
+    padding: 20px 20px 30px 20px;
+    border: 1px solid #000;
+    background: #e0e0e0;
+}
+.currency-name{
+    font-weight: 600;
+}
+
+.currency-in, .currency-out{
+    text-align: right;
+}
+
+main> .block{
+    padding: 10px;
+    border: 1px solid #000;
+    background: #e0e0e0;
+}
+
+
+
+
+
+
+
+.calc-res{
+    font-size: 1.2rem;
+}
+
+.calc-res li {
+    margin: 10px 0;
+}
+
+.footer .footer-bottom{
+    background: #202020;
+    padding: 30px 0;
+}
+
+.footer .footer-bottom ul li a {
+    line-height: 30px;
+    color: #fff;
+    position: relative;
+    margin-left: 23px;
+    display: block;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.footer-title{
+    color:#fff;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}
+
+.footer-title a {
+    color: #fff;
+    font-size: 1.4rem;
+    text-decoration: none;
+}

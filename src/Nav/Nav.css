@@ -1,0 +1,16 @@
+.header-nav{
+  background-color: rgb(31, 134, 230);
+background-image: radial-gradient(ellipse farthest-corner at right bottom, #ADC0CE 0%, rgb(31, 134, 230) 50%, #E4E4E4 100%);
+}
+.header-nav li{
+  display: inline-block;
+  padding: 15px 25px 15px;
+}
+.header-nav li a, .header-nav li a:visited {
+  color:#fff;
+  text-decoration: none;
+  display: block;
+}
+.header-nav li:hover{
+  background: #e27e0c;
+}
